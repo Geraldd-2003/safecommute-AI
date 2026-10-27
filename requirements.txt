@@ -1,0 +1,10 @@
+# Tested with Python 3.13 on 27 Oct 2026 (Python 3.11+ required by pandas 3)
+streamlit==1.66.1
+pandas==3.1.0
+openpyxl==3.1.5
+folium==0.20.0
+streamlit-folium==0.27.4
+geopy==2.5.0
+altair==6.3.0
+# Tests only
+pytest==9.1.1

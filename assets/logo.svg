@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40" role="img" aria-label="SafeCommute AI">
+  <path d="M22 6a14 14 0 1 0 12 21A11 11 0 0 1 22 6z" fill="#F59E0B"/>
+  <circle cx="30" cy="11" r="2" fill="#93C5FD"/>
+  <text x="44" y="27" font-family="Fira Sans, Segoe UI, sans-serif" font-size="19" font-weight="700" fill="#E2E8F0">SafeCommute <tspan fill="#60A5FA">AI</tspan></text>
+</svg>
